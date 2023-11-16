@@ -1,4 +1,4 @@
-package com.corenetworks.presentacion;
+package com.corenetworks.modelo;
 
 public enum TipoProducto {
     PRODUCTO_PRIMERA_NECESIDAD,

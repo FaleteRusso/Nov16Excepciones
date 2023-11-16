@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c334c9e-7340-49c0-8e0d-ecb57070837f" name="Changes" comment="" />
+    <list default="true" id="6c334c9e-7340-49c0-8e0d-ecb57070837f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov16Excepciones.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Fecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/TipoProducto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejemplo2TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EntradaDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarFecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/PruebaProducto.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,9 +51,86 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.PruebaProducto">
+    <configuration name="Ejemplo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.Ejemplo1" />
+      <module name="Nov16Excepciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejemplo2TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.Ejemplo2TryCatch" />
+      <module name="Nov16Excepciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.modelo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EntradaDatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.EntradaDatos" />
+      <module name="Nov16Excepciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.modelo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProbarFecha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.ProbarFecha" />
+      <module name="Nov16Excepciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaProducto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.PruebaProducto" />
+      <module name="Nov16Excepciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PruebaProducto" />
+        <item itemvalue="Application.ProbarFecha" />
+        <item itemvalue="Application.Ejemplo2TryCatch" />
+        <item itemvalue="Application.EntradaDatos" />
+        <item itemvalue="Application.Ejemplo1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
